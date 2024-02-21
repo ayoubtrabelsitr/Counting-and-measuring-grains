@@ -1,0 +1,16 @@
+Pour compiler le programme 
+
+1: g++ -o main main.cpp -lDGtal
+2: ./main
+
+Pour visualiser les areas 
+
+vous pouvez décommenter les lignes 240 à 249
+
+Pour visualiser les perimetres 
+
+vous pouvez décommenter les lignes 251 à 259
+
+Pour visualiser les circulartiys 
+
+vous pouvez décommenter les lignes 261 à 268
